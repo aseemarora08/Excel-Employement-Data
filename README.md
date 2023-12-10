@@ -9,7 +9,7 @@ Explore meticulously curated demographic and employment data, expertly analyzed 
 ## Project Objectives
 The project aims to answer the following questions:
 
-### Percentage of Middle-Aged Respondents (Q1):
+#### Percentage of Middle-Aged Respondents (Q1):
 What percentage of all respondents were middle-aged?
   
 ### Males from Texas (Q2):
